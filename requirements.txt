@@ -1,0 +1,9 @@
+# Versions used for the tests (Python 3.13). Earlier minor versions probably work; Python >= 3.10 recommended.
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2
+matplotlib>=3.8
+rasterio>=1.4
+geopandas>=1.0
+shapely>=2.0
+scikit-learn>=1.4
